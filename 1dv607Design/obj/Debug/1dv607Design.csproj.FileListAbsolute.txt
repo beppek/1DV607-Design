@@ -1,0 +1,8 @@
+C:\Users\Beppe\MediaFire\Studies\1DV607\Design\1dv607Design\1dv607Design\bin\Debug\1dv607Design.exe.config
+C:\Users\Beppe\MediaFire\Studies\1DV607\Design\1dv607Design\1dv607Design\bin\Debug\1dv607Design.exe
+C:\Users\Beppe\MediaFire\Studies\1DV607\Design\1dv607Design\1dv607Design\bin\Debug\1dv607Design.pdb
+C:\Users\Beppe\MediaFire\Studies\1DV607\Design\1dv607Design\1dv607Design\obj\Debug\1dv607Design.csprojResolveAssemblyReference.cache
+C:\Users\Beppe\MediaFire\Studies\1DV607\Design\1dv607Design\1dv607Design\obj\Debug\1dv607Design.exe
+C:\Users\Beppe\MediaFire\Studies\1DV607\Design\1dv607Design\1dv607Design\obj\Debug\1dv607Design.pdb
+C:\Users\Beppe\MediaFire\Studies\1DV607\Design\1dv607Design\1dv607Design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Beppe\MediaFire\Studies\1DV607\Design\1dv607Design\1dv607Design\bin\Debug\Newtonsoft.Json.xml

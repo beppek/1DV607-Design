@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Beppe Karlsson",
+    "PersonalNumber": 8703272222,
+    "Id": 1,
+    "BoatsOwned": [
+      {
+        "Length": 11.0,
+        "Type": 0
+      },
+      {
+        "Length": 2.0,
+        "Type": 2
+      },
+      {
+        "Length": 2.0,
+        "Type": 3
+      }
+    ]
+  },
+  {
+    "Name": "Kurt Cobain",
+    "PersonalNumber": 6702209445,
+    "Id": 2,
+    "BoatsOwned": [
+      {
+        "Length": 2.3,
+        "Type": 3
+      }
+    ]
+  }
+]

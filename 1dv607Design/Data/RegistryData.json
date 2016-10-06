@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Name": "Beppe Karlsson",
+    "PersonalNumber": 8703271111,
+    "Id": 1,
+    "BoatsOwned": [
+      {
+        "Length": 11,
+        "Type": 0
+      },
+      {
+        "Length": 2,
+        "Type": 2
+      }
+    ]
+  },
+  {
+    "Name": "Bibban Carlsson",
+    "PersonalNumber": 5504231111,
+    "Id": 2,
+    "BoatsOwned": [ ]
+  }
+]
