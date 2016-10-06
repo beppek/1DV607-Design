@@ -15,7 +15,7 @@ Alternative Steps:
 
 1. Clone the repo
 2. Open Solution in Visual Studio
-3. Use NuGet to get Newtonsoft to handle JSON
+3. Use NuGet to get Newtonsoft to handle JSON if you have any problems with JSON
 4. Run within VS
 
 ## Design Diagrams
