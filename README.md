@@ -18,5 +18,5 @@ Alternative Steps:
 3. Use NuGet to get Newtonsoft to handle JSON
 4. Run within VS
 
-### Design Diagrams
+## Design Diagrams
 You can find all design diagrams [here](https://github.com/beppek/1DV607/wiki/Design-Diagrams).
